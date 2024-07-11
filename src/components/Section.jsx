@@ -6,40 +6,41 @@ export default function Section() {
       img: "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/icon1.png",
       title: "Declarative",
       descriptions: [
-        "React makes it painless to create interactive UIs.",
-        "Built encapsulated components that manage their state.",
-        "A set of immutable values are passed to the component's.",
-        "Statically-typed. designed to run on modern browsers.",
+        "React makes it",
+        "painless to create",
+        "interactive UIs.",
+        
       ],
     },
     {
       img: "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/icon2.png",
       title: "Components",
       descriptions: [
-        "React makes it painless to create interactive UIs.",
-        "Built encapsulated components that manage their state.",
-        "A set of immutable values are passed to the component's.",
-        "Statically-typed. designed to run on modern browsers.",
+        
+        "Built encapsulated",
+        "components that",
+        "manage their state.",
+      
       ],
     },
     {
       img: "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/icon3.png",
       title: "Single-way",
       descriptions: [
-        "React makes it painless to create interactive UIs.",
-        "Built encapsulated components that manage their state.",
-        "A set of immutable values are passed to the component's.",
-        "Statically-typed. designed to run on modern browsers.",
+      
+        "A set of immutable",
+        "values are passed to",
+        "the component's.",
+       
       ],
     },
     {
       img: "https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/icon4.png",
       title: "JSX",
       descriptions: [
-        "React makes it painless to create interactive UIs.",
-        "Built encapsulated components that manage their state.",
-        "A set of immutable values are passed to the component's.",
-        "Statically-typed. designed to run on modern browsers.",
+        "Statically-typed.",
+        "designed to run on",
+        "m  odern browsers.",
       ],
     },
   ];
